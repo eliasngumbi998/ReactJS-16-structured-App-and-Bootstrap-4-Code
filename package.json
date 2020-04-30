@@ -7,7 +7,7 @@
     "bootstrap": "^4.0.0-beta.2",
     "exports-loader": "^0.6.4",
     "history": "^4.7.2",
-    "jquery": "^1.12.4",
+    "jquery": "^3.5.0",
     "node-sass-chokidar": "0.0.3",
     "npm-run-all": "^4.1.1",
     "popper.js": "^1.12.5",
