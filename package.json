@@ -36,7 +36,7 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
-    "node-sass": "^4.5.3",
+    "node-sass": "^4.13.1",
     "path": "^0.12.7",
     "postcss-loader": "^2.0.8",
     "precss": "^2.0.0",
