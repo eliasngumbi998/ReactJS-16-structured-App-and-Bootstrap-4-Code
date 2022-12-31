@@ -5,7 +5,7 @@
   "dependencies": {
     "autoprefixer": "^7.1.5",
     "bootstrap": "^4.0.0-beta.2",
-    "exports-loader": "^0.6.4",
+    "exports-loader": "^4.0.0",
     "history": "^4.7.2",
     "jquery": "^1.12.4",
     "node-sass-chokidar": "0.0.3",
@@ -20,7 +20,7 @@
     "react-router-config": "^1.0.0-beta.4",
     "react-router-dom": "^4.2.2",
     "react-router-redux": "^4.0.8",
-    "react-scripts": "^1.0.14",
+    "react-scripts": "^5.0.1",
     "redux": "^3.7.2",
     "redux-logger": "^3.0.6",
     "redux-promise": "^0.5.3",
@@ -38,9 +38,9 @@
   "devDependencies": {
     "node-sass": "^4.5.3",
     "path": "^0.12.7",
-    "postcss-loader": "^2.0.8",
+    "postcss-loader": "^7.0.2",
     "precss": "^2.0.0",
-    "sass-loader": "^6.0.6",
-    "webpack": "^3.8.1"
+    "sass-loader": "^13.2.0",
+    "webpack": "^5.75.0"
   }
 }
